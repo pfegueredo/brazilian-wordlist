@@ -1,2 +1,2 @@
-# brazilian_wordist
-Wordlist with brazilian with cities, people names, etc.
+# brazilian_wordlist
+Wordlist with brazilian with cities, people names, commom passwords, etc.
